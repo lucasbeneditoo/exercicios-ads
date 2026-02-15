@@ -38,7 +38,7 @@ int main(){
        cout << "\n1 - Acao 1\n";
        cout << "2 - Acao 2\n";
        cout << "3 - Acao 3\n";
-       cout << "0 - Sair\n";
+       cout << "0 - Sair do programa\n";
        cout << "\nSelecione a Acao: ";
 
        // Lê a opção do usuário
